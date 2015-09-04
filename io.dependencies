@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "InfinitiveOS-Devices/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "revision":    "io-1.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "InfinitiveOS-Devices/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":    "io-1.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "InfinitiveOS-Devices/android_kernel_sony_msm8930",
+    "target_path": "kernel/sony/msm8930",
+    "revision":    "io-1.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "InfinitiveOS-Devices/android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+    "revision":    "io-1.0"
+  }
+]
